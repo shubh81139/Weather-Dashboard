@@ -13,7 +13,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - To highlight **storytelling with data** through visuals and layout  
 - To create a **portfolio-ready project** suitable for interviews and business demos  
 
----
+
 
 ## Tech Stack & Tools Used
 
@@ -24,7 +24,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - **Figma** – For custom background and modern UI layout  
 - **JSON Parsing** – For converting raw API data into structured tables  
 
----
+
 
 ## Data Source
 
@@ -37,7 +37,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
   - Rain probability
   - Sunrise & sunset times
 
----
+
 
 ## Key Features & Highlights
 
