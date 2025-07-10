@@ -4,7 +4,7 @@
 
 This project is a **visually interactive weather monitoring dashboard** built using **Power BI**. It delivers real-time weather insights like temperature, humidity, air quality, and forecast for Indian cities including **Delhi**, **Bengaluru**, and **Ajmer**. The dashboard features a **custom UI designed in Figma** and integrates **live data via Weather API**—showcasing the power of data storytelling and design.
 
----
+
 
 ## Purpose
 
@@ -39,17 +39,17 @@ This project is a **visually interactive weather monitoring dashboard** built us
 
 ---
 
-## ✨ Key Features & Highlights
+## Key Features & Highlights
 
-- 🌡️ Real-time temperature and weather status  
-- 🏙️ Multi-city comparison (Delhi, Bengaluru, Ajmer)  
-- 📅 7-day temperature forecast (line chart)  
-- 💧 Humidity, wind, visibility, pressure, UV index  
-- 🌄 Sunrise & sunset timings  
-- 🌧️ Daily rain probability (bar graph)  
-- 🌫️ Detailed AQI: PM10, PM2.5, CO, SO2, NO2, O3  
-- 📐 Figma-based modern UI design  
-- 📊 Visual storytelling with trends and comparisons  
+- Real-time temperature and weather status  
+- Multi-city comparison (Delhi, Bengaluru, Ajmer)  
+- 7-day temperature forecast (line chart)  
+- Humidity, wind, visibility, pressure, UV index  
+- Sunrise & sunset timings  
+- Daily rain probability (bar graph)  
+- Detailed AQI: PM10, PM2.5, CO, SO2, NO2, O3  
+- Figma-based modern UI design  
+- Visual storytelling with trends and comparisons  
 
 ---
 
