@@ -51,6 +51,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - Figma-based modern UI design  
 - Visual storytelling with trends and comparisons  
 
+## DashBoard Preview
 
 
 
