@@ -1,4 +1,4 @@
-# 🌤️ Weather Dashboard with Power BI, API Integration & Figma Design
+# Weather Dashboard with Power BI, API Integration & Figma Design
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - To demonstrate the use of **real-time data integration** in Power BI  
 - To apply **data transformation and modeling** using Power Query and DAX  
 - To highlight **storytelling with data** through visuals and layout  
-- To create a **portfolio-ready project** suitable for interviews and business demos  
+
 
 
 
@@ -22,7 +22,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - **Power Query (M Language)** – For data transformation and cleaning  
 - **Weather API** – Provides live weather and AQI data (in JSON)  
 - **Figma** – For custom background and modern UI layout  
-- **JSON Parsing** – For converting raw API data into structured tables  
+
 
 
 
@@ -51,7 +51,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - Figma-based modern UI design  
 - Visual storytelling with trends and comparisons  
 
----
+
 
 
 
