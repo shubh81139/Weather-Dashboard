@@ -1,12 +1,12 @@
 # 🌤️ Weather Dashboard with Power BI, API Integration & Figma Design
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a **visually interactive weather monitoring dashboard** built using **Power BI**. It delivers real-time weather insights like temperature, humidity, air quality, and forecast for Indian cities including **Delhi**, **Bengaluru**, and **Ajmer**. The dashboard features a **custom UI designed in Figma** and integrates **live data via Weather API**—showcasing the power of data storytelling and design.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - To demonstrate the use of **real-time data integration** in Power BI  
 - To apply **data transformation and modeling** using Power Query and DAX  
@@ -15,7 +15,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 
 ---
 
-## 🛠️ Tech Stack & Tools Used
+## Tech Stack & Tools Used
 
 - **Power BI** – For dashboard creation and interactive visualizations  
 - **DAX** – For calculated measures and KPIs  
@@ -26,7 +26,7 @@ This project is a **visually interactive weather monitoring dashboard** built us
 
 ---
 
-## 🔗 Data Source
+## Data Source
 
 - **Weather API (e.g., OpenWeatherMap or similar)**  
   Provides:
@@ -53,17 +53,5 @@ This project is a **visually interactive weather monitoring dashboard** built us
 
 ---
 
-## 📷 Preview
 
-![Weather Dashboard](./Screenshot%202025-07-10%20191254.png)
-
----
-
-## 📬 Let’s Connect
-
-Whether you’re a recruiter, mentor, or fellow data enthusiast — feel free to reach out!  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile] *(Replace with your link)*
-
----
 
