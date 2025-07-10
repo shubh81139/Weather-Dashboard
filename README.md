@@ -52,7 +52,8 @@ This project is a **visually interactive weather monitoring dashboard** built us
 - Visual storytelling with trends and comparisons  
 
 ## DashBoard Preview
-https://github.com/shubh81139/Weather-Dashboard/blob/main/Weather_Dashboard_design.png
+
+![Dashboard Preview](https://github.com/shubh81139/Weather-Dashboard/blob/main/Weather_Dashboard_design.png)
 
 
 
